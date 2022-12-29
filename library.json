@@ -1,0 +1,16 @@
+{
+  "name": "UNIT_MiniJoyC",
+  "description": "Library for M5Stack UNIT UNIT_MiniJoyC",
+  "keywords": "M5Stack UNIT MiniJoyC",
+  "authors": {
+    "name": "M5Stack",
+    "url": "http://www.m5stack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m5stack/M5Unit-MiniJoyC.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
